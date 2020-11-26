@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ignore_Teleport
+  - tileLight
   layers:
   - Default
   - TransparentFX

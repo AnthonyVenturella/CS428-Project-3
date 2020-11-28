@@ -4677,7 +4677,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 1298591280}
   newSound: {fileID: 1298591281}
-  pointer: {fileID: 0}
 --- !u!1 &193780454
 GameObject:
   m_ObjectHideFlags: 0
@@ -5507,7 +5506,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 1733381903}
   newSound: {fileID: 919132148794800176}
-  pointer: {fileID: 0}
 --- !u!1 &226773565
 GameObject:
   m_ObjectHideFlags: 0
@@ -8857,7 +8855,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 1106016000}
   newSound: {fileID: 1106016001}
-  pointer: {fileID: 0}
 --- !u!1 &391554460
 GameObject:
   m_ObjectHideFlags: 0
@@ -19269,7 +19266,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 1454140420}
   newSound: {fileID: 1454140421}
-  pointer: {fileID: 0}
 --- !u!4 &988239673 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4104784785992050, guid: efdaae735e2404755802c1864bb99de1,
@@ -35175,7 +35171,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 2093759439}
   newSound: {fileID: 2093759440}
-  pointer: {fileID: 0}
 --- !u!1 &1718449101
 GameObject:
   m_ObjectHideFlags: 0
@@ -36630,17 +36625,17 @@ PrefabInstance:
     - target: {fileID: 7207697106345390044, guid: 293e193c72e6a6044af9db9fe66a044f,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.17247003
+      value: 0.19
       objectReference: {fileID: 0}
     - target: {fileID: 7207697106345390044, guid: 293e193c72e6a6044af9db9fe66a044f,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.7428469
+      value: 0.766
       objectReference: {fileID: 0}
     - target: {fileID: 7207697106345390044, guid: 293e193c72e6a6044af9db9fe66a044f,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.30533302
+      value: 0.246
       objectReference: {fileID: 0}
     - target: {fileID: 7207697106345390044, guid: 293e193c72e6a6044af9db9fe66a044f,
         type: 3}

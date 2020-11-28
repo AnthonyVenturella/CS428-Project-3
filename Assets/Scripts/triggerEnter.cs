@@ -30,7 +30,7 @@ public class triggerEnter : MonoBehaviour {
     }
 
     IEnumerator sitdown() {
-        yield return new WaitForSeconds(4);
+        yield return new WaitForSeconds(2);
         animator.SetTrigger("transition2");
         Debug.Log("Sit");
     }

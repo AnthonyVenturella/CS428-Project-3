@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ignore_Teleport
   - tileLight
+  - trigger
   layers:
   - Default
   - TransparentFX

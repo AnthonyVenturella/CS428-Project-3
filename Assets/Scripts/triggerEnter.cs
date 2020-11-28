@@ -8,8 +8,6 @@ public class triggerEnter : MonoBehaviour {
     public Animator animator;
     public AudioSource newSound;
 
-    public GameObject pointer;
-
 
     private void OnTriggerEnter(Collider other) {
         if (other.tag == "Player" && inTrigger == false) {
